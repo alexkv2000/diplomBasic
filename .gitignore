@@ -1,0 +1,9 @@
+/.idea/
+/assets/
+/out/
+
+/src/ru/netology/graphics/server/
+/src/ru/netology/graphics/readMe.txt
+
+.gitignore
+out.png
